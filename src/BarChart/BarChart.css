@@ -1,0 +1,35 @@
+.chart {
+	width: 80%;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+.info-panel {
+	width: 150px;
+	height: 60px;
+	font-size: 14px;
+	border: 1px solid grey;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.info-title {
+	font-weight: bold;
+}
+.next-page-btn-container {
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.next-page-btn {
+	width: 100px;
+	height: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	transition-duration: 0.3s;
+}
+
+.next-page-btn:hover {
+	box-shadow: 0 6px 6px 0 rgba(0,0,0,0.24),0 10px 30px 0 rgba(0,0,0,0.19);
+}
